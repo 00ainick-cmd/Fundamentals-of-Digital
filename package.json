@@ -1,0 +1,27 @@
+{
+  "name": "fundamentals-of-digital",
+  "version": "1.0.0",
+  "description": "ACE Training Terminal - Digital Fundamentals Educational Application",
+  "scripts": {
+    "deploy": "gh-pages -d . -t --nojekyll -m 'Deploy to GitHub Pages'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00ainick-cmd/Fundamentals-of-Digital.git"
+  },
+  "keywords": [
+    "education",
+    "aviation",
+    "training",
+    "gamification"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00ainick-cmd/Fundamentals-of-Digital/issues"
+  },
+  "homepage": "https://github.com/00ainick-cmd/Fundamentals-of-Digital#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
