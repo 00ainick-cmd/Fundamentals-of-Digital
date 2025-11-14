@@ -29,6 +29,17 @@ The `npm run deploy` command will:
 
 After deployment, the site will be available at: `https://00ainick-cmd.github.io/Fundamentals-of-Digital/`
 
+### First-time Setup
+
+After running `npm run deploy` for the first time, you need to enable GitHub Pages:
+
+1. Go to your repository on GitHub
+2. Navigate to Settings → Pages
+3. Under "Source", select the `gh-pages` branch
+4. Click "Save"
+
+The site will be live within a few minutes at the URL above.
+
 ## Development
 
 No build process is required. Simply open `index.html` in a web browser to test locally.
